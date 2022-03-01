@@ -2,6 +2,7 @@ body {
     --nav-width: 100%;    
     font-family: 'Quicksand', sans-serif;
     font-size: 1.5em;
+    margin-top: 3em;
 }
 
 .nav {    
@@ -47,3 +48,8 @@ body {
 a {
     color: #009579;
 }
+
+.center {
+    text-align: center;
+    border: 1px solid rgb(185, 189, 185);
+  }
